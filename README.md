@@ -1,6 +1,6 @@
 # Go CLI Utils
 
-A collection of short, sweet and simple CLI utils written in Golang, primarily for learning purposes. However, they do have their practical uses. The currently available tools are detailed below:
+A collection of short, sweet, and simple CLI utils written in Golang, primarily for learning purposes. However, they do have their practical uses. The currently available tools are detailed below:
 
 - - - - 
 
